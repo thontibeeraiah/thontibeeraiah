@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thontibeeraiah
 - 👀 I’m interested in python, AI
-- 🌱 I’m currently learning basics of python
+- 🌱 I’m an intermediate level coder in python
 - 💞️ I’m looking to collaborate on data analysis on python
 - 📫 ping me on b121815.rgukt@gmail.com to reach me
 
